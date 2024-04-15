@@ -1,7 +1,7 @@
 #### Hi, my name is Ana 👋
 Junior UX/UI designer & a self-taught web developer
 
-🔥 Interested in web development and UX/UI design. Passionate about creating intuitive and inclusive user experiences in digital products.\
+🔥 Interested in digital products development and UX/UI design. Passionate about creating intuitive and inclusive user experiences in digital products.\
 🎨 Skilled in UX design principles and web development.\
 🌱 Constantly learning and improving through self-study and practice.\
 🤝 I’m looking to collaborate on web app development projects\
