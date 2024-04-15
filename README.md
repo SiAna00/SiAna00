@@ -1,11 +1,11 @@
 #### Hi, my name is Ana 👋
-Junior UX/UI designer &  self-taught web developer\
+Junior UX/UI designer & a self-taught web developer
 
 🔥 Interested in web development and UX/UI design. Passionate about creating intuitive and inclusive user experiences in digital products.\
 🎨 Skilled in UX design principles and front-end web development.\
 🌱 Constantly learning and improving through self-study and practice.\
 🤝 I’m looking to collaborate on web app development projects\
-👩 Pronouns: she/her\
+👩 Pronouns: she/her
 
 #### 📫 How to reach me
 [![icon_linkedin](https://github.com/SiAna00/SiAna00/assets/137308766/8e8582a4-f95e-4dc6-9dd2-e3e675562c5c)
