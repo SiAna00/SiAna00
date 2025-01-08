@@ -8,8 +8,6 @@ Junior UX/UI designer & a self-taught web developer
 👩 Pronouns: she/her
 
 #### 📫 How to reach me
-[![icon_linkedin](https://github.com/SiAna00/SiAna00/assets/137308766/8e8582a4-f95e-4dc6-9dd2-e3e675562c5c)
-](https://www.linkedin.com/in/ana-%C5%A1-7a3226276/ "Go to LinkedIn")\
 [![icon_twitter](https://github.com/SiAna00/SiAna00/assets/137308766/e59f78d0-d772-4591-9ce1-0f759fc8d2c8)
 ](https://twitter.com/MFliping "Go to X")
 
